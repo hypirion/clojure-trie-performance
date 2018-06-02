@@ -1,4 +1,4 @@
-{:paths ["src" "dev" "resources"]
+{:paths ["src" "dev" "resources" "java/src"]
  :deps
  {org.clojure/clojure {:mvn/version "1.9.0"}
 
